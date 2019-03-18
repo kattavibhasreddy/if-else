@@ -1,0 +1,2 @@
+if(height<5) print "short";
+else print "tall";
